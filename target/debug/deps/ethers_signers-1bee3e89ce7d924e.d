@@ -1,0 +1,9 @@
+/home/agantem/Desktop/Book-App/target/debug/deps/libethers_signers-1bee3e89ce7d924e.rmeta: /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/lib.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/wallet/mod.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/wallet/mnemonic.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/wallet/private_key.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/../README.md
+
+/home/agantem/Desktop/Book-App/target/debug/deps/ethers_signers-1bee3e89ce7d924e.d: /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/lib.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/wallet/mod.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/wallet/mnemonic.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/wallet/private_key.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/../README.md
+
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/lib.rs:
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/wallet/mod.rs:
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/wallet/mnemonic.rs:
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/wallet/private_key.rs:
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.14/src/../README.md:

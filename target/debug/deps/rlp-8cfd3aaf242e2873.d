@@ -1,0 +1,12 @@
+/home/agantem/Desktop/Book-App/target/debug/deps/librlp-8cfd3aaf242e2873.rmeta: /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs
+
+/home/agantem/Desktop/Book-App/target/debug/deps/librlp-8cfd3aaf242e2873.rlib: /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs
+
+/home/agantem/Desktop/Book-App/target/debug/deps/rlp-8cfd3aaf242e2873.d: /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs /home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs
+
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs:
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs:
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs:
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs:
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs:
+/home/agantem/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs:

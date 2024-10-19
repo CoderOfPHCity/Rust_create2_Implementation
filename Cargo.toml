@@ -1,0 +1,10 @@
+[package]
+name = "Book-App"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ethers = "2.0.14"  # Check for the latest or required version on crates.io
+tiny-keccak = "2.0.2"  # Check for the latest or required version
+hex-literal = "0.4.1"  # Check for the latest or required version
+
