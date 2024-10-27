@@ -39,10 +39,10 @@ impl Create2Factory {
         // hasher.finalize(&mut output);
 
         let output = {
-            let mut hasher = Keccak::v256();
-            hasher.update(&buffer);
+            let mut hash = Keccak::v256();
+            hash.update(&buffer);
             let mut out = [0u8; 32];
-            hasher.finalize(&mut out);
+            hash.finalize(&mut out);
             out
         };
         let mut address = [0u8; 20];
