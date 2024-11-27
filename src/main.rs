@@ -29,6 +29,7 @@ impl Create2Factory {
         if bytecode_hash.iter().all(|&b| b == 0) {
             return Err(Create2Error::EmptyBytecode);
         }
+        //
 
         let deployer_bytes = self.deployer.as_bytes();
         let buffer = [&[0xff], deployer_bytes, &salt, &bytecode_hash].concat();
